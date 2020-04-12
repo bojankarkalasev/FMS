@@ -10,7 +10,9 @@
 * `Java Spring` за Back-end;
 * `PostgreSQL` за базата на податоци;
 * `React` за Front-end;
-* `JavaScript` (Bootstrap и други библиотеки);
+* Останати `JavaScript` библиотеки (Bootstrap и други);
+* `REST` за API;
+* `JSON`;
 * `CSS 3`;
 * `HTML 5`.
 
